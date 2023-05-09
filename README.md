@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Om kanta Prasad Yadav<br>A passionate Full Stack Web Developer from India<br>👨‍💻 All of my projects are available at https://omkanta.github.io/<br><br>💬 Ask me about React, Chakra UI, Node.js<br><br>📫 How to reach me 1omkant1998@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14CLHdvT2dJQNH2dMDItfn_Ih8uvYn2SG/view?usp=sharing<br><br>
+<h1 align="center">Hi 👋, I'm Om Kanta Prasad Yadav</h1>
+<h3 align="center">A passionate FULL STACK WEB DEVELOPER</h3>
+<br>👨‍💻 All of my projects are available at https://omkanta.github.io/<br><br>💬 Ask me about React, Chakra UI, Node.js<br><br>📫 How to reach me 1omkant1998@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14CLHdvT2dJQNH2dMDItfn_Ih8uvYn2SG/view?usp=sharing<br><br>
 
 
 ## 🌐 Socials:
