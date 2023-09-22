@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Om Kanta Prasad Yadav</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPER</h3>
-<h5>👨‍💻 All of my projects are available at: https://omkanta.github.io</h5>
-<h5>💬 Ask me about React, Chakra UI, Node.js, Express.js, MongoDB</h5>
-<h5>📫 How to reach me 1omkant1998@gmail.com</h5>
-<h5>📄Know about my experiences https://drive.google.com/file/d/14CLHdvT2dJQNH2dMDItfn_Ih8uvYn2SG/view?usp=sharing</h5>
+<p>👨‍💻 All of my projects are available at: https://omkanta.github.io</p>
+<p>💬 Ask me about React, Chakra UI, Node.js, Express.js, MongoDB</p>
+<p>📫 How to reach me 1omkant1998@gmail.com</p>
+<p>📄Know about my experiences https://drive.google.com/file/d/14CLHdvT2dJQNH2dMDItfn_Ih8uvYn2SG/view?usp=sharing</p>
 <br>
 
 
