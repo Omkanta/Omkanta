@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://omkanta.github.io/](https://omkanta.github.io/)
+- 👨‍💻 All of my projects are available at [https://Omkanta.github.io/](https://Omkanta.github.io/)
 
 - 💬 Ask me about **React, Chakra UI, Node.js, Express, MongoDB**
 
